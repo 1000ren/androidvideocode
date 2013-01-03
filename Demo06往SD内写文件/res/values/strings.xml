@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">方威版往SD内写入文件</string>
+    <string name="filename">请输入文件名字</string>
+    <string name="filecontent">输入文件内容</string>
+    <string name="button">点击保存</string>
+    <string name="success">你的文件保存成功了</string>
+    <string name="fale">你的文件保存失败</string>
+    <string name="sdcardnoexsit">不存在或者写保护</string>
+    
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">方威版网络图片查看器</string>
+    <string name="path">网络图片的路径</string>
+    <string name="button">查看</string>
+    <string name="error">获取图片失败</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">姓名</string>
+    <string name="app_name">方威版编码实现软件界面</string>
+    <string name="button">查询</string>
+</resources>

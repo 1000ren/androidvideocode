@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Demo40i18nActivity!</string>
+    <string name="app_name">fangweibanguojihua</string>
+    <string name="name">name</string>
+    <string name="button">save</string>
+
+</resources>

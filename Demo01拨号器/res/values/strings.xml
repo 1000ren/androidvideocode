@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">方威版手机拨号器</string>
+    <string name="moblie">请输入电话号码</string>
+    <string name="button">拨号</string>
+</resources>

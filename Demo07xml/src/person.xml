@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- startdocument开始文档语法 -->
+<persons><!--Node Type ? Element node / Text node -->
+	<person id="23">
+		<name>fangwei</name>
+		<age>24</age>
+	</person>
+	<person id="20">
+		<name>1000ren</name>
+		<age>100</age>
+	</person>
+</persons><!-- 结束文档语法 -->

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">方威版屏幕适配</string>
+    <string name="name">姓名</string>
+    <string name="button">保存</string>
+</resources>

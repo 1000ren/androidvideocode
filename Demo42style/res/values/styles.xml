@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<style name="fangwei01">
+		<item name="android:textSize">18sp</item>
+		<item name="android:textColor">#FF0000</item>
+		<item name="android:layout_width">fill_parent</item>
+		<item name="android:layout_height">wrap_content</item>
+	</style>
+	
+	<style name="fangwei02" parent="@style/fangwei01">
+		<item name="android:textColor">#3300CC</item>
+	</style>
+	
+	<style name="fangwei01.fangwei03">
+		<item name="android:textColor">#339900</item>
+	</style>
+	
+	<style name="fangweiTheme">
+		<item name="android:windowNoTitle">false</item>
+		<item name="android:windowFullscreen">?android:windowNoTitle</item>
+	</style>
+</resources>

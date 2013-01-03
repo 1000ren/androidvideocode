@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+	<SurfaceView  
+	    android:layout_width="fill_parent" 
+	    android:layout_height="fill_parent" 
+	    android:id="@+id/surfaceView"
+	    />
+    
+    <RelativeLayout
+    	android:layout_width="fill_parent" 
+	    android:layout_height="fill_parent" 
+    >
+    	<Button
+    	android:layout_width="wrap_content" 
+	    android:layout_height="wrap_content" 
+	    android:text="@string/stop"
+	    android:id="@+id/stopbutton"
+	    android:layout_alignParentRight="true"
+	    android:layout_alignParentBottom="true"
+	    android:layout_marginRight="5dp"
+	    android:onClick="recordvideo"
+	    android:enabled="false"
+    	/>
+     	<Button
+    	android:layout_width="wrap_content" 
+	    android:layout_height="wrap_content" 
+	    android:text="@string/record"
+	    android:id="@+id/recordbutton"
+	    android:layout_toLeftOf="@id/stopbutton"
+	    android:layout_alignTop="@id/stopbutton"
+	    android:layout_marginRight="20dp"
+	    android:onClick="recordvideo"
+    	/>   
+    </RelativeLayout>
+</FrameLayout>

@@ -1,0 +1,11 @@
+1> 创建数据库 <自动创建数据库>
+
+	SQLiterOpenHelper
+
+2> 连接到数据库，通过SQL语句完成
+
+	JDBC -->加载JDBC驱动 ----conn ---执行SQL
+	
+	Android是不用加载驱动了 内部集成了SQLliter
+	
+	

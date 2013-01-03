@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">i18n</string>
+    <string name="name">us:name</string>
+    <string name="button">us:save</string>
+</resources>

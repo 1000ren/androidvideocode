@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: H:\\2_学习\\4_源代码\\3_Android源码\\视频源码\\老黎_android基础视频源码\\androidDemo源码\\androidDemo源码\\Demo34remoteService\\src\\com\\fangwei\\adil\\QueryService.aidl
+ * Original file: E:\\git\\workspace\\.git\\androidvediobasecode\\Demo34remoteService\\src\\com\\fangwei\\adil\\QueryService.aidl
  */
 package com.fangwei.adil;
 public interface QueryService extends android.os.IInterface

@@ -11,6 +11,6 @@ public class MainActivity extends Activity {
         
     	super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
-        //看啊大大
+        //看啊大大.
     }
 }

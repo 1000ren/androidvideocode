@@ -16,7 +16,7 @@ public class MainActivity extends Activity {
 	@Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-      //一：画界面
+      //一：画界面==
         setContentView(R.layout.main);
         //二：生成相应的点击事件 和 拨号功能
         //获取输入框的电话号码
